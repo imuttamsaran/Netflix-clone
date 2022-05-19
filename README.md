@@ -1,2 +1,2 @@
 # Netflix-clone
-[Netflix Clone]()
+[Netflix Clone](https://u-netflix.netlify.app/) 
